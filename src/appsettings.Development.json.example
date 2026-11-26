@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Port=5432;Database=eduhub_mini;Username=postgres;Password=nhap_mat_khau_cua_ban"
+  }
+}
